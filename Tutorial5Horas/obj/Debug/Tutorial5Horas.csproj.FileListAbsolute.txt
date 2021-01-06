@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\Tutorial5Horas\Tutorial5Horas\bin\Debug\Tutorial5Horas.exe.config
+C:\Users\Gaming PC\source\repos\Tutorial5Horas\Tutorial5Horas\bin\Debug\Tutorial5Horas.exe
+C:\Users\Gaming PC\source\repos\Tutorial5Horas\Tutorial5Horas\bin\Debug\Tutorial5Horas.pdb
+C:\Users\Gaming PC\source\repos\Tutorial5Horas\Tutorial5Horas\obj\Debug\Tutorial5Horas.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\Tutorial5Horas\Tutorial5Horas\obj\Debug\Tutorial5Horas.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\Tutorial5Horas\Tutorial5Horas\obj\Debug\Tutorial5Horas.exe
+C:\Users\Gaming PC\source\repos\Tutorial5Horas\Tutorial5Horas\obj\Debug\Tutorial5Horas.pdb
